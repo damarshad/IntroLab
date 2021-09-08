@@ -5,6 +5,11 @@ Text/List testing
 
 Bullet List
 * One
-- Two
-  -Two point five
+  * and a half
 
+Dash List
+- Two
+  - Two point five
+
+- [ ] Item
+- [x] Complete
